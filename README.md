@@ -54,7 +54,8 @@ Algorithm: Logistic Regression
 
 Accuracy Score:
 
-REPLACE_WITH_YOUR_ACCURACY
+Accuracy Percentage: 80.97560975609757 %
+
 
 ## Model Serialization
 
@@ -115,13 +116,13 @@ The Flask application is deployed using Render.
 
 Render URL:
 
-REPLACE_WITH_YOUR_RENDER_URL
+https://heartdiseasedeployment-n9l0l.onrender.com
 
 ## GitHub Repository
 
 GitHub URL:
 
-REPLACE_WITH_YOUR_GITHUB_URL
+https://github.com/bhumika23mei10073-hash/HeartDiseaseDeployment.git
 
 ## Conclusion
 
